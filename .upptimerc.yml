@@ -49,8 +49,8 @@ status-website:
   baseUrl: /upptime-pacharanero
   logoUrl: https://bawmedical.co.uk/uploads/default/original/1X/a94175b9df0d3e63c23d920884fdfee52bfafc72.svg
   name: Baw Medical Uptime Monitor
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: "This site monitors other sites and catalogues uptime"
+  introTitle: ""
+  introMessage: "This site monitors important sites and catalogues Uptime, alerting upon downtime"
   navbar:
     - title: Status
       href: /
