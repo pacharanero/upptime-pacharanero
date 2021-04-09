@@ -1,34 +1,56 @@
 # Change these first
-owner: upptime # Your GitHub organization or username
-repo: upptime # Your GitHub repository name
+owner: pacharanero # Your GitHub organization or username
+repo: upptime-pacharanero # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
-  - name: TCP ping
-    url: 1.1.1.1
+  - name: 2018.cawoodstock.org
+    url: https://2018.cawoodstock.org
+  - name: 2019.cawoodstock.org
+    url: http://2019.cawoodstock.org
+  - name: batsignal-live.herokuapp.com
+    url: https://batsignal-live.herokuapp.com/
+  - name: bawmedical.co.uk
+    url: https://bawmedical.co.uk
+  - name: cawood.life
+    url: https://cawood.life
+  - name: cawoodstock.org
+    url: https://cawoodstock.org
+  - name: covid19forum.rcgp.org.uk/
+    url: https://covid19forum.rcgp.org.uk/
+  - name: "discourse.digitalhealth.net Networks Discourse"
+    url: https://discourse.digitalhealth.net/
+  - name: discuss.doughnuteconomics.org
+    url: https://discuss.doughnuteconomics.org
+  - name: facultyofclinicalinformatics.org.uk
+    url: https://facultyofclinicalinformatics.org.uk
+  - name: forum.digitalhealthrewired.com
+    url: https://forum.digitalhealthrewired.com
+  - name: forum.ehealthireland.ie
+    url: https://forum.ehealthireland.ie/
+  - name: forum.greatnorthcarerecord.org.uk/
+    url: https://forum.greatnorthcarerecord.org.uk
+  - name: discourse.openehr.org
+    url: https://discourse.openehr.org
+  - name: healthforum.nz
+    url: https://healthforum.nz/
+  - name: www.facultyofclinicalinformatics.org.uk
+    url: https://www.facultyofclinicalinformatics.org.uk
+  - name: openhealthhub.org
+    url: https://openhealthhub.org/
+    
+assignees:
+  - pacharanero
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  baseUrl: /upptime-pacharanero
+  logoUrl: https://bawmedical.co.uk/uploads/default/original/1X/a94175b9df0d3e63c23d920884fdfee52bfafc72.svg
+  name: Baw Medical Uptime Monitor
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: "This site monitors other sites and catalogues uptime"
   navbar:
     - title: Status
       href: /
