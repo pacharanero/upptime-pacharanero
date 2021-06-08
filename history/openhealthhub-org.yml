@@ -1,7 +1,7 @@
 url: https://openhealthhub.org/
-status: up
-code: 200
-responseTime: 882
-lastUpdated: 2021-06-07T23:40:23.757Z
+status: down
+code: 500
+responseTime: 470
+lastUpdated: 2021-06-08T21:59:33.008Z
 startTime: Fri Apr 09 2021 10:01:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
