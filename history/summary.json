@@ -292,17 +292,17 @@
     "url": "https://openhealthhub.org/",
     "icon": "https://favicons.githubusercontent.com/openhealthhub.org",
     "slug": "openhealthhub-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 812,
-    "timeDay": 882,
-    "timeWeek": 788,
-    "timeMonth": 817,
-    "timeYear": 812,
+    "time": 806,
+    "timeDay": 676,
+    "timeWeek": 748,
+    "timeMonth": 806,
+    "timeYear": 806,
     "dailyMinutesDown": {}
   }
 ]
