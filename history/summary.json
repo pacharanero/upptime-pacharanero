@@ -22,7 +22,7 @@
     "url": "http://2019.cawoodstock.org",
     "icon": "https://favicons.githubusercontent.com/2019.cawoodstock.org",
     "slug": "2019-cawoodstock-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -121,7 +121,7 @@
     "time": 1306,
     "timeDay": 1242,
     "timeWeek": 1115,
-    "timeMonth": 1068,
+    "timeMonth": 1065,
     "timeYear": 1306,
     "dailyMinutesDown": {}
   },
